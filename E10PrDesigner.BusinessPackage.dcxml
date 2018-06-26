@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BusinessPackageConfiguration>
+  <Id PropertyAction="SetNull" />
+  <AutoUpdate>False</AutoUpdate>
+  <VersionCode>5.0</VersionCode>
+  <Description>E10 2.0基礎版部署设定文件</Description>
+  <DeployConfig>E10_Basic</DeployConfig>
+  <Source />
+  <CreateDate>04/23/2017 20:25:17</CreateDate>
+  <ModifyDate />
+  <BasePackage>..\..\Digiwin\E10_Debug\ZH50-20161123170706_PT\BusinessPackage.dcxml</BasePackage>
+  <NameRule />
+</BusinessPackageConfiguration>
