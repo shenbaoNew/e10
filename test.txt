@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <FunctionPackage xmlns="http://schemas.dcms.com/configuration/FunctionPackageElement">
   <BaseItems>
     <DcxmlFunctionPackage>
@@ -12,7 +12,7 @@
       <AssemblyQualifiedName>Digiwin.ERP.DynamicDisplayPropertyColumnService.Business.Implement.DynamicDisplayPropertyColumnService,Digiwin.ERP.DynamicDisplayPropertyColumnService.Business.Implement</AssemblyQualifiedName>
     </FunctionPoint>
 	<FunctionPoint>
-      <Id>PR_UpdateLotTransactionInterceptor</Id>
+      <Id>PR_UpdateLotTransactionInterceptsssor</Id>
       <AssemblyQualifiedName>Digiwin.ERP.IM_Q001.Business.Implement.UpdateLotTransactionInterceptor,Digiwin.ERP.IM_Q001.Business.Implement</AssemblyQualifiedName>
     </FunctionPoint>
   </Items>
