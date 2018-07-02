@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataEntityTypeDocument xmlns="http://www.digitalchina.com/data/dataEntityType.xsd" defaultNamespace="WindowsFormsApplication11">
+  <dataEntityTypes>
+    <dataEntityType name="Customer" domain="Database" dataEntityTypeType="Root" primaryKey="ID">
+      <properties>
+        <simpleProperty name="ID" dbType="Guid" description="PrimaryKey"/>
+        <simpleProperty name="CODE" dbType="String" size="10" description="单据类型编号"/>
+        <simpleProperty name="NAME" dbType="String" size="20" description="单据类型名称"/>
+      </properties>
+    </dataEntityType>
+
+    <dataEntityType name="Product" domain="Database" dataEntityTypeType="Root" primaryKey="ID">
+      <properties>
+        <simpleProperty name="ID" dbType="Guid" description="PrimaryKey"/>
+        <simpleProperty name="CODE" dbType="String" size="10" description="单据类型编号"/>
+        <simpleProperty name="NAME" dbType="String" size="20" description="单据类型名称"/>
+      </properties>
+    </dataEntityType>
+
+    <dataEntityType name="Quotation" domain="Database" dataEntityTypeType="Root" primaryKey="ID">
+      <properties>
+        <simpleProperty name="ID" dbType="Guid" description="PrimaryKey"/>
+        <simpleProperty name="CODE" dbType="String" size="10" description="单据类型编号"/>
+        <simpleProperty name="NAME" dbType="String" size="20" description="单据类型名称"/>
+      </properties>
+    </dataEntityType>
+  </dataEntityTypes>
+</dataEntityTypeDocument>
