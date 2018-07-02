@@ -1,4 +1,5 @@
 ﻿//20170829 modi by shenbao for P001-170829002 指标树函数信息支持多语言
+//test
 using System;
 using System.Collections.Generic;
 using System.Linq;

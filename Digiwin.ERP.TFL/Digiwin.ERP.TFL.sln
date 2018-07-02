@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27825.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digiwin.ERP.TFL.UI.Implement", "Digiwin.ERP.TFL.UI.Implement\Digiwin.ERP.TFL.UI.Implement.csproj", "{3B85D83F-A124-4034-A966-8B64E5C36CE2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digiwin.ERP.TFL.Business", "Digiwin.ERP.TFL.Business\Digiwin.ERP.TFL.Business.csproj", "{1A5A9EC4-6430-4453-93FC-4F8208586A2A}"
@@ -28,5 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ECA8665-F487-4B00-A30F-D32913F04896}
 	EndGlobalSection
 EndGlobal
